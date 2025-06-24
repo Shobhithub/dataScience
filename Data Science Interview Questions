@@ -1,0 +1,146 @@
+Data Science with AI using Machen learning  .  There are 100 questions related to data science
+(Interview Questions) 
+I. Python & Programming (10 Questions) 
+
+
+1. What are the main data structures in Python, and when would you use each? 
+2. How do you handle large datasets that don’t fit into memory? 
+3. Explain the difference between shallow copy and deep copy in Python. 
+4. How do you use list comprehensions for data transformation? 
+5. What are Python generators and how are they useful in data science? 
+6. How can you improve the performance of a slow-running Python script? 
+7. What’s the difference between map(), filter(), and reduce() in Python? 
+8. Explain exception handling with an example. 
+9. How do you perform parallel processing in Python? 
+10. What are the advantages of using Python for AI and ML? 
+
+
+
+
+
+
+
+II. Statistics, Probability & Linear Algebra (15 Questions) 
+
+
+
+11. What is the difference between descriptive and inferential statistics? 
+12. Explain Bayes’ Theorem with a real-world use case. 
+13. Define standard deviation, variance, and coefficient of variation. 
+14. What is the Law of Large Numbers? 
+15. How do you handle skewed distributions? 
+16. Explain correlation vs covariance. 
+17. What are eigenvalues and eigenvectors, and how are they used in ML? 
+18. What is the role of linear algebra in neural networks? 
+19. Define the null and alternate hypothesis. 
+20. What are Type I and Type II errors? 
+21. When do you use a t-test instead of a z-test? 
+22. What is the difference between PDF and CDF? 
+23. How do confidence intervals work? 
+24. What is PCA and how does it use linear algebra? 
+25. What is the Curse of Dimensionality? 
+
+
+
+
+III. Machine Learning Algorithms (20 Questions) 
+
+
+26. What is the difference between supervised, unsupervised, and reinforcement learning? 
+27. How does linear regression work? What are its assumptions? 
+28. What is logistic regression, and when is it preferred over linear regression? 
+29. How does a decision tree algorithm determine the best split? 
+30. What is Random Forest? Why is it better than a single decision tree? 
+31. How does gradient boosting work? 
+32. What’s the difference between bagging and boosting? 
+33. What are the advantages of XGBoost? 
+34. What is SVM? How does the kernel trick work? 
+35. Explain K-means clustering with an example. 
+36. How do you choose the value of ‘K’ in KNN? 
+37. What are distance metrics and how do you choose one? 
+38. What is the difference between hard and soft clustering? 
+39. What is a confusion matrix and how is it used? 
+40. Define the ROC curve and AUC. 
+41. What is Naive Bayes and when would you use it? 
+42. What are ensemble models? Give examples. 
+43. How do you tune hyperparameters in a model? 
+44. What is cross-validation and why is it important? 
+45. What is model generalization? 
+IV. Deep Learning & AI (20 Questions) 
+46. What is the difference between ML and DL? 
+47. Explain how an artificial neural network works. 
+48. What are activation functions? Compare ReLU, sigmoid, and tanh. 
+49. What is backpropagation in neural networks? 
+50. What is the vanishing gradient problem? How do you solve it? 
+51. What are CNNs and how do they work? 
+52. Explain max pooling in CNNs. 
+53. What are RNNs and how do they differ from CNNs? 
+54. What are LSTM networks? Why are they better for sequence data? 
+55. What is the attention mechanism in deep learning? 
+56. Explain the architecture of a Transformer model. 
+57. What is BERT and how is it used in NLP? 
+58. What is transfer learning? Provide a use case. 
+59. Explain dropout and its role in preventing overfitting. 
+60. How do GANs work? 
+61. What are autoencoders? 
+62. What is the difference between supervised and self-supervised learning? 
+63. Explain reinforcement learning with an example. 
+64. What is the difference between policy-based and value-based reinforcement learning? 
+65. What is multi-head attention? 
+
+
+
+V. Model Evaluation & Optimization (10 Questions) 
+
+
+66. What metrics would you use for classification problems? 
+67. How do you handle class imbalance? 
+68. What is precision-recall tradeoff? 
+69. How do you perform model selection? 
+70. What is AUC-ROC and when do you use it? 
+71. What is regularization (L1 vs L2)? 
+72. How do you choose an appropriate evaluation metric? 
+73. What are grid search and random search? 
+74. What is early stopping in deep learning? 
+75. What are learning rate schedules? 
+
+
+VI. Data Preprocessing & Feature Engineering (10 
+Questions) 
+
+
+
+76. How do you handle missing values? 
+77. What are the different types of encoding for categorical data? 
+78. What is feature scaling and why is it important? 
+79. How do you detect and handle outliers? 
+80. What is binning in data preprocessing? 
+81. Explain the importance of feature selection. 
+82. What are embedding layers in deep learning? 
+83. How do you handle high-cardinality categorical variables? 
+84. What is SMOTE and how is it used? 
+85. What’s the difference between normalization and standardization? 
+
+
+
+
+VII. NLP & Computer Vision (10 Questions) 
+
+
+
+86. What is tokenization in NLP? 
+87. How do word embeddings like Word2Vec and GloVe work? 
+88. What are stop words and why do we remove them? 
+89. Explain Named Entity Recognition (NER). 
+90. How do you build a text classification model? 
+91. What is image augmentation in computer vision? 
+92. What are the steps in an image classification pipeline? 
+93. What are bounding boxes and IoU in object detection? 
+94. What are common CNN architectures? (e.g., ResNet, VGG) 
+95. How does OCR (Optical Character Recognition) work? 
+VIII. Tools, Platforms & MLOps (5 Questions) 
+96. What is your experience with TensorFlow or PyTorch? 
+97. How do you track experiments in ML projects? 
+98. What is MLflow and how is it used? 
+99. Explain how CI/CD works in ML pipelines. 
+100. What is model drift and how do you monitor it?
